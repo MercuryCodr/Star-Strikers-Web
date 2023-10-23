@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(160, 198, 255);
+}
+.title {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 40px;
+    color: rgb(0, 170, 255);
+    margin-top: 60px;
+    margin-left: 450px; 
+
+}
+
+.earth {
+    margin-left: 280px;    
+    margin-right: 280px;
+
+}
